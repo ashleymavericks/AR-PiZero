@@ -9,7 +9,7 @@ Here is a quick demo of the effect. I hope you enjoy it.
 Liked it? Please give a ⭐️
 
 # 💻 Use AR-PiZero
-URL will redirect user to Facebook Camera to enjoy the immersive AR experience without any installation hassle. Then just point your smartphone camera to a physical RaspberryPi Zero device or its [image](https://github.com/ashleymavericks/AR-PiZero/blob/main/textures/RespberryPi-removebg-preview.png) to see all the components of Pi Zero in Augmented Reality.
+URL will redirect user to Facebook Camera to enjoy the immersive AR experience without any installation hassle. Then just point your smartphone camera to a physical RaspberryPi Model Zero device or any of its [image](https://github.com/ashleymavericks/AR-PiZero/blob/main/textures/RespberryPi-removebg-preview.png) available on web to see all the components of Pi Zero in Augmented Reality.
 
 > [AR-PiZero Effect](https://www.facebook.com/fbcameraeffects/tryit/638474867603874/)
 
