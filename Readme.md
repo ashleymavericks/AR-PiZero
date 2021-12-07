@@ -1,5 +1,5 @@
 # 👋 Introducing `AR-PiZero`
-AR-PiZero is a sparkAR application that provides an immersive Augmented reality experience using Facebook Camera. AR-PiZero provides a complex pins schematic of Electronic Boards such as RaspberryPi Model Zero in a very simple and immersive experience, which is helpful for both professionals and students.
+AR-PiZero is a sparkAR application that provides an immersive Augmented reality experience using Facebook Camera for IoT devices. AR-PiZero provides a complex pins schematic of Electronic Boards such as RaspberryPi Model Zero in a very simple and immersive experience, which is helpful for both professionals and students.
 
 # 🚀 Demo
 Here is a quick demo video of the effect. I hope you enjoy it.
